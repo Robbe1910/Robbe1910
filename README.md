@@ -17,7 +17,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 ## Formación
 
-- Grado Superior de Desarrollo de Aplicaciones Web | Sep 2022 - Actualidad
+- Grado Superior de Desarrollo de Aplicaciones Web | Sep 2022 - Jun 2024
 
 ## Idiomas
 
